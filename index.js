@@ -20,4 +20,3 @@ function sayHiToGrandma(string) {
   return string.toLowerCase"I love you, too."
   return (string.toLowerCase "I love you,Grandma."
   }
-
