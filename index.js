@@ -8,5 +8,5 @@ return string.toLowerCase()
 
 function logshout(string) {
 console.log(HELLO.toUpperCase());
-  
+
 }
